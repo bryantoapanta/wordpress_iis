@@ -47,7 +47,7 @@ $(document).on("click", ".cerrar_sesion", (function () {
         })
             .done(function (resultado) {
               
-            $(location).attr('href', "http://localhost/wordpress/");
+            $(location).attr('href', "http://172.16.18.40/wordpress/");
             });
     }
 
