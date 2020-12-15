@@ -1,0 +1,86 @@
+/* BOTONES GESTIOINAR*/
+.btn_categoria{
+	font-size: 1.8rem !important;
+	width: 100%;
+	height: 90%;
+	color: #314A6C;
+	background-color: white;
+}
+
+.btn_categoria:hover{
+	box-shadow: 0px 1px 30px white;
+
+}
+.div-categorias{
+	height: 10vh;
+	font-family:  BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	
+}
+
+
+#links {
+	/* vertical-align: middle;*/
+	 position: absolute;
+	 z-index: 1;
+	 left:0%;
+	 top: 15vh;
+	 background-color: white;
+	 box-shadow: 0px 1px 30px #999;
+	 color: #314A6C;
+	 font-family:  BlinkMacSystemFont, "Helvetic Neue", Helvetica, sans-serif;
+ }
+
+ /*Boton volver*/
+
+ .cancelar{
+
+	float: right;
+	color: #852D1A !important;
+	box-shadow: 5px 5px 10px #999;
+
+}
+
+.cancelar:hover{
+
+	color: white !important;
+	background-color: #852D1A !important;
+	box-shadow: 0px 0px 1px 2px #852D1A;
+	border-color: #852D1A !important;
+}
+
+.enlaces_paginas{
+	height: auto;
+	margin-top: 1vh;
+	margin-bottom: 3vh;
+	
+}
+
+
+/*Botones-links*/
+.enlaces_paginas button{
+	font-size: 18px !important;
+	width: 72%;
+	height: 90%;
+	color: white;
+	background-color: #314A6C;
+
+	margin-bottom: 2vh;;
+
+}
+
+/*Sombra button*/
+.enlaces_paginas button:hover{
+	box-shadow: 0px 0px 1px 2px #314A6C;
+}
+
+
+/*h1 categoria*/
+.enlaces_paginas h2{
+	font-size: 3rem !important;
+
+}
+
+  /*DESABILITAR categgoria-div*/
+  .disabledbutton { pointer-events: none; opacity: 0.4; } 
+
+  .cerrar_sesion button{}

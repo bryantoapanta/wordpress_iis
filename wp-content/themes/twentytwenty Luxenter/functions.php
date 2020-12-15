@@ -187,6 +187,10 @@ require get_template_directory() . '/inc/block-patterns.php';
 function twentytwenty_register_styles() {
 
 	$theme_version = wp_get_theme()->get( 'Version' );
+	//Estilo Bootstrap
+	wp_enqueue_style('bootstrap', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+	// Boostrap creado manualmente.
+	wp_enqueue_style('style_bootstrap', get_template_directory_uri() . '/style_bootstrap.css');
 
 	wp_enqueue_style( 'twentytwenty-style', get_stylesheet_uri(), array(), $theme_version );
 	wp_style_add_data( 'twentytwenty-style', 'rtl', 'replace' );
@@ -196,6 +200,14 @@ function twentytwenty_register_styles() {
 
 	// Add print CSS.
 	wp_enqueue_style( 'twentytwenty-print-style', get_template_directory_uri() . '/print.css', null, $theme_version, 'print' );
+
+
+
+	// Add print Ajax.
+	wp_enqueue_script('ajax.js', get_template_directory_uri() . '/ajax.js', array('jquery'), '1', true);
+
+	// Add print Jquery.
+	wp_enqueue_script('jquery.js', get_template_directory_uri() . '/jquery.js');
 
 }
 
@@ -779,7 +791,7 @@ function dcms_list_data($content)
 		/* Llamamos a la funcion obtener tienda pasandole el parametro session user para obtener el id_tienda */
 		$tienda_usuario = obtener_tienda($_SESSION["user"]);
 
-		$items = $wpdb->get_results("SELECT DISTINCT nombre_solapa FROM $table_name where id_tienda = $tienda_usuario");
+		$items = $wpdb->get_results("SELECT DISTINCT nombre_solapa FROM $table_name where id_tienda = 1");
 		$result = '';
 		$template = '<div class="container text-white">
 		
@@ -799,7 +811,7 @@ function dcms_list_data($content)
 
 
 
-		return $content .  $template; //le devolvemos el contenido + el template creado
+		return   $template; //le devolvemos el contenido + el template creado
 	}
 
 	return $content;
