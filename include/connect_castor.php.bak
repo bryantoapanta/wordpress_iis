@@ -1,0 +1,7 @@
+<?php
+# FileName="connect.php"
+$hostnameCastor = "82.223.49.123";
+$databaseCastor = "TPV_CENTRAL";
+$usernameCastor = "sa";
+$passwordCastor = "Barcelona2010#";
+?>

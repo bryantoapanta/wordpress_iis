@@ -1,0 +1,63 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    background-color: #f2f2f2;
+    ;
+}
+
+/*---------------------------------------------*/
+
+.container{
+
+ 
+    /*IMPORTANTE*/
+  
+    margin-top: 10vh;
+    height: 60vh;
+    background-image: url("../images/diamante.jpg");
+    background-size: cover;
+
+}
+
+/*---------------------------------------------*/
+
+.titulo{
+    margin-top: 15vh;
+    color: linear-gradient(to left #314A6C, white, #314A6C);;
+}
+  
+
+/*---------------------------------------------*/
+
+.formulario{
+    margin-top: 1vh;;
+}
+  
+
+.entrar{
+    width: 100%;
+    background-color: #314A6C;
+    color: white;  
+    position: relative;
+    
+
+
+   
+}
+
+.entrar:hover{
+    background-color:  #314A6C ;
+    color: rgba(255, 255, 255, 1) !important;
+    box-shadow: 0px 0px 5px 10px white;
+}
+
+.entrar:active{
+    box-shadow: 0 3px 0 #314A6C;
+     top: 3px;
+}
+
+/*---------------------------------------------*/
+
+.boton_X{
+    text-decoration: none;
+}
+

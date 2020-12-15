@@ -791,7 +791,7 @@ function dcms_list_data($content)
 		/* Llamamos a la funcion obtener tienda pasandole el parametro session user para obtener el id_tienda */
 		$tienda_usuario = obtener_tienda($_SESSION["user"]);
 
-		$items = $wpdb->get_results("SELECT DISTINCT nombre_solapa FROM $table_name where id_tienda = 1");
+		$items = $wpdb->get_results("SELECT DISTINCT nombre_solapa FROM $table_name where id_tienda = $tienda_usuario");
 		$result = '';
 		$template = '<div class="container text-white">
 		
