@@ -84,3 +84,15 @@
   .disabledbutton { pointer-events: none; opacity: 0.4; } 
 
   .cerrar_sesion button{}
+
+
+  /* Hover enlace gestionar*/
+  .enlace-gestionar:hover{
+	color: white !important;
+  }
+
+  /*INICIO H1*/
+
+  .entry-title {
+	  font-size: 3em;
+  }
