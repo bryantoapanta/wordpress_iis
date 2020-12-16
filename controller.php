@@ -17,12 +17,21 @@ function CtlLogin()
     include_once 'include/login.php';
 }
 
+// Pagina Gestionar
 function CtlCargarLinks()
 {
     $datos = ModeloUserDB::obtener_links($_POST['categoria']);
     //var_dump($datos);
     include_once 'include/links.php';
 }
+
+//Pagina Rankings
+function CtlCargarRanking()
+{
+    var_dump($_POST);
+    include_once 'include/rankings/ranking_clientes.php';
+}
+
 function CtlCerrar_Sesion()
 {
     session_destroy();

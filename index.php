@@ -19,6 +19,10 @@ if (isset($_GET['accion'])) {
         case 'mostrarLinks':
             CtlCargarLinks();
             break;
+
+        case 'mostrarRanking':
+            CtlCargarRanking();
+            break;
     }
 } else {
 

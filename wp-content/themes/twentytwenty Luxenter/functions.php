@@ -817,7 +817,7 @@ function dcms_list_data($content)
 
 		foreach ($items as $item) {
 			$template .= '
-					  <div class="col-6 text-center div-categorias"><button class="btn btn_categoria m-1">' . $item->nombre_solapa . '</button></div>
+					  <div class="col-6 text-center div-categorias"><button class="btn btn_categoria gestionar m-1">' . $item->nombre_solapa . '</button></div>
 			';
 		}
 		$template .= '</div>
@@ -866,7 +866,7 @@ function dcms_list_data_ranking ($content)
 		/* Llamamos a la funcion obtener tienda pasandole el parametro session user para obtener el id_tienda */
 		$tienda_usuario = obtener_tienda($_SESSION["user"]);
 
-		$items = $wpdb->get_results("SELECT DISTINCT nombre_opcion FROM $table_name where id_tienda = $tienda_usuario and nombre_solapa = 'RANKING' and activado = 1");
+		$items = $wpdb->get_results("SELECT DISTINCT nombre_opcion , id_opcion FROM $table_name where id_tienda = $tienda_usuario and nombre_solapa = 'RANKING' and activado = 1");
 		$result = '';
 		$template = '<div class="container text-white">
 		
@@ -877,7 +877,7 @@ function dcms_list_data_ranking ($content)
 
 		foreach ($items as $item) {
 			$template .= '
-					  <div class="col-6 text-center div-categorias"><button class="btn btn_categoria ranking m-1">' . $item->nombre_opcion . '</button></div>
+					  <div class="col-6 text-center div-categorias"><button class="btn btn_categoria ranking m-1" valor="'.$item->id_opcion.'" >' . $item->nombre_opcion . '</button></div>
 			';
 		}
 		$template .= '</div>
