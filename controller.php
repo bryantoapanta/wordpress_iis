@@ -28,8 +28,12 @@ function CtlCargarLinks()
 //Pagina Rankings
 function CtlCargarRanking()
 {
-    var_dump($_POST);
-    include_once 'include/rankings/ranking_clientes.php';
+    //var_dump($_POST);
+    echo "ranking" . $_GET["ranking"] . "<br>";
+    if ($_GET["ranking"] == 30 or $_GET["ranking"] == 31 or $_GET["ranking"] == 32) {
+        echo "clientes dentro";
+        include_once 'vista/ranking_clientes.php';
+    } else include_once 'vista/ranking_online.php';
 }
 
 function CtlCerrar_Sesion()

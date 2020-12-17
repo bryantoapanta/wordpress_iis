@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -88,10 +89,13 @@
 <body>
 
 <?php
+echo
+"online";
+	include('connect_castor.php');
 	
-	$serverName = "82.223.49.123"; //serverName\instanceName
-	$connectionInfo = array( "Database"=>"TPV_CENTRAL", "UID"=>"sa", "PWD"=>"Barcelona2010#");
-	$conn = sqlsrv_connect( $serverName, $connectionInfo);
+	$connectionInfo = array( "Database"=>"$databaseCastor", "UID"=>"$usernameCastor", "PWD"=>"$passwordCastor");
+	$conn = sqlsrv_connect( $hostnameCastor, $connectionInfo);
+	
 
 	if( $conn ) {
 		//echo "Conexión establecida.<br />";

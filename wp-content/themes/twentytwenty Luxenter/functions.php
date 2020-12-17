@@ -868,7 +868,7 @@ function dcms_list_data_ranking ($content)
 
 		$items = $wpdb->get_results("SELECT DISTINCT nombre_opcion , id_opcion FROM $table_name where id_tienda = $tienda_usuario and nombre_solapa = 'RANKING' and activado = 1");
 		$result = '';
-		$template = '<div class="container text-white">
+		$template = '<div class="container-fluid text-white">
 		
 
 		<div id="categoria-div" class="row">';
@@ -877,7 +877,7 @@ function dcms_list_data_ranking ($content)
 
 		foreach ($items as $item) {
 			$template .= '
-					  <div class="col-6 text-center div-categorias"><button class="btn btn_categoria ranking m-1" valor="'.$item->id_opcion.'" >' . $item->nombre_opcion . '</button></div>
+					  <div class="col-12 text-center div-categorias"><button class="btn btn_categoria ranking m-1" valor="'.$item->id_opcion.'" >' . $item->nombre_opcion . '</button></div>
 			';
 		}
 		$template .= '</div>
