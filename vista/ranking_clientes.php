@@ -187,13 +187,13 @@
 
 				echo "<div class='col-12'>";
 				echo "<center>";
-				echo "<table class='blueTable mb-0' width=80vw>";
+				echo "<table class='blueTable' width=80vw>";
 				echo "<thead>";
 				echo "<tr><td style='height:30px'><div align='center'><font size=3 face='tahoma,verdana' color='white'><b>Ranking de Alta de Clientes Fidelizados " . $titulo . " </font></b></div></td></tr>";
 				echo "</thead>";
 				echo "</table>";
 
-				echo "<table class='blueTable' width=800px>";
+				echo "<table class='blueTable mt-1' width=80vw>";
 				echo "<thead>";
 				echo "<tr style='height:20px'>";
 				echo "<th width='40'><div align='center'><b>Posición</b></div></td>";
@@ -209,18 +209,18 @@
 					echo "<tr>";
 
 					if ($i == 1) {
-						echo "<td style='height:20px'><div align='center' class='tooltip' id='tooltip_" . $i . "'><img src='../images/medalla_primero.png'><span class='tooltip' style='display: none;'>Posicion numero " . $row['TopRanking'] . "</span></div></td>";
+						echo "<td style='height:20px'><div align='center' ><img src='../../images/medalla_primero.png'><span class='tooltip' style='display: none;'>Posicion numero " . $row['TopRanking'] . "</span></div></td>";
 					} else if ($i == 2) {
-						echo "<td style='height:20px'><div align='center' class='tooltip' id='tooltip_" . $i . "'><img src='../images/medalla_segundo.png'><span class='tooltip' style='display: none;'>Posicion numero " . $row['TopRanking'] . "</span></div></td>";
+						echo "<td style='height:20px'><div align='center' ><img src='../../images/medalla_segundo.png'><span class='tooltip' style='display: none;'>Posicion numero " . $row['TopRanking'] . "</span></div></td>";
 					} else if ($i == 3) {
-						echo "<td style='height:20px'><div align='center' class='tooltip' id='tooltip_" . $i . "'><img src='../images/medalla_tercero.png'><span class='tooltip' style='display: none;'>Posicion numero " . $row['TopRanking'] . "</span></div></td>";
+						echo "<td style='height:20px'><div align='center' ><img src='../../images/medalla_tercero.png'><span class='tooltip' style='display: none;'>Posicion numero " . $row['TopRanking'] . "</span></div></td>";
 					} else {
-						echo "<td style='height:20px'><div align='center'>" . $row['TopRanking'] . "</div></td>";
+						echo "<td style='height:20px'><div align='center' class='text-dark'>" . $row['TopRanking'] . "</div></td>";
 					}
 
 
-					echo "<td style='height:20px'><div align='left'>"  . $row['NOMBRE'] . " </div></td>";
-					echo "<td style='height:20px'><div align='center'>"  . $row['TOTAL'] . " </div></td>";
+					echo "<td style='height:20px'><div align='left' class='text-dark'>"  . $row['NOMBRE'] . " </div></td>";
+					echo "<td style='height:20px'><div align='center' class='text-dark'>"  . $row['TOTAL'] . " </div></td>";
 
 					//if($row['OBSERVATIONS']=="") 
 					//	echo "<td bgcolor='#EEEEEE'><div align='center' class='tooltip' id='tooltip_" .$i. "'></div></td>";
