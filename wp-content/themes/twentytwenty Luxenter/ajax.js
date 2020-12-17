@@ -29,6 +29,7 @@ $(document).on('click', '.gestionar', function () { //al pulsar una tecla en el 
 $(document).on("click", ".volver", (function () {
 
     $("#links").remove(); // dejamos en blanco el div_ajax
+    $("#div-ranking").remove(); // dejamos en blanco el div_ajax
     $(".body").fadeTo('slow', 1);//oscurecemos el div 
     $("#categoria-div").removeClass('disabledbutton');
 
@@ -98,7 +99,7 @@ $(document).on('click', '.ranking', function () { //al pulsar una tecla en el bu
             $("#categoria-div").addClass('disabledbutton');//le añado una clase donde inhabilito las funciones del div
             $(".body").fadeTo('slow', .1);//oscurecemos el div 
             $(".entry-content").before(resultado); //en el div #resultado le metemos lo que nos devuelva el php
-            $("#links").css("top", "20vh");
+            //$("#ranking").css("top", "20vh");
         });
 
 }

@@ -29,9 +29,9 @@ function CtlCargarLinks()
 function CtlCargarRanking()
 {
     //var_dump($_POST);
-    echo "ranking" . $_GET["ranking"] . "<br>";
+    //echo "ranking" . $_GET["ranking"] . "<br>";
     if ($_GET["ranking"] == 30 or $_GET["ranking"] == 31 or $_GET["ranking"] == 32) {
-        echo "clientes dentro";
+        // echo "clientes dentro";
         include_once 'vista/ranking_clientes.php';
     } else include_once 'vista/ranking_online.php';
 }
