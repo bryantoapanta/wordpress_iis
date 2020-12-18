@@ -886,7 +886,7 @@ function dcms_list_data_ranking ($content)
 
 
 
-		return   $template; //le devolvemos el contenido + el template creado
+		return   $template; //le devolvemos el el template creado
 	}
 
 	return $content;

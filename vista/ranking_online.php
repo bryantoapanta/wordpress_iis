@@ -24,6 +24,7 @@
 						width: 45%;
 						text-align: left;
 						border-collapse: collapse;
+						margin: 0;
 					}
 
 					table.blueTable td,
