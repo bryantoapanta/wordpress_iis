@@ -98,21 +98,19 @@
   }
 
   /*RANKING DIV*/
-
-  #ranking {
+#div-ranking{
+	/*position: relative;*/
+}
+  #rankings {
 	
-	position: relative;
+	position: absolute;
 	z-index: 1;
 	left:0%;
 	top: 15vh;
+	height: 80vh;
 	background-color: white;
 	box-shadow: 0px 1px 30px #999;
-	color: #314A6C;
+	overflow:scroll;
 	font-family:  BlinkMacSystemFont, "Helvetic Neue", Helvetica, sans-serif;
 	border-radius: 10px;;
-  }
-
-  #rankings{
-	background-color: white;
-
   }
