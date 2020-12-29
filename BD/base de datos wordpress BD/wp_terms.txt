@@ -1,0 +1,3 @@
+"1"	"Sin categoría"	"sin-categoria"	"0"
+"2"	"Principal"	"principal"	"0"
+"4"	"Menú de enlaces sociales"	"menu-de-enlaces-sociales"	"0"

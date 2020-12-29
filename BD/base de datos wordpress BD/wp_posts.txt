@@ -1,0 +1,979 @@
+"1"	"1"	"15/12/2020 09:51:10"	"15/12/2020 09:51:10"	"<!-- wp:paragraph -->
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+<!-- /wp:paragraph -->"	"¡Hola, mundo!"	""	"trash"	"open"	"open"	""	"hola-mundo__trashed"	""	""	"15/12/2020 12:27:00"	"15/12/2020 12:27:00"	""	"0"	"http://localhost/wordpress/?p=1"	"0"	"post"	""	"1"
+"2"	"1"	"15/12/2020 09:51:10"	"15/12/2020 09:51:10"	"<!-- wp:paragraph -->
+<p>Esta es una página de ejemplo. Es diferente a una entrada del blog porque permanecerá en un solo lugar y aparecerá en la navegación de tu sitio (en la mayoría de los temas). La mayoría de las personas comienzan con una página «Acerca de» que les presenta a los visitantes potenciales del sitio. Podrías decir algo así:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote""><p>¡Bienvenido! Soy camarero de día, aspirante a actor de noche y esta es mi web. Vivo en Mairena del Alcor, tengo un perro que se llama Firulais y me gusta el rebujito. (Y las tardes largas con café).</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>…o algo así:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class=""wp-block-quote""><p>La empresa «Mariscos Recio» fue fundada por Antonio Recio Mata. Empezó siendo una pequeña empresa que suministraba marisco a hoteles y restaurantes, pero poco a poco se ha ido transformando en un gran imperio. Mariscos Recio, el mar al mejor precio.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Como nuevo usuario de WordPress, deberías ir a <a href=""http://localhost/wordpress/wp-admin/"">tu escritorio</a> para borrar esta página y crear nuevas páginas para tu contenido. ¡Pásalo bien!</p>
+<!-- /wp:paragraph -->"	"Página de ejemplo"	""	"publish"	"closed"	"open"	""	"pagina-ejemplo"	""	""	"15/12/2020 09:51:10"	"15/12/2020 09:51:10"	""	"0"	"http://localhost/wordpress/?page_id=2"	"0"	"page"	""	"0"
+"3"	"1"	"15/12/2020 09:51:10"	"15/12/2020 09:51:10"	"<!-- wp:heading --><h2>Quiénes somos</h2><!-- /wp:heading --><!-- wp:paragraph --><p>La dirección de nuestra web es: http://localhost/wordpress.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Qué datos personales recogemos y por qué los recogemos</h2><!-- /wp:heading --><!-- wp:heading {""level"":3} --><h3>Comentarios</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Cuando los visitantes dejan comentarios en la web, recopilamos los datos que se muestran en el formulario de comentarios, así como la dirección IP del visitante y la cadena de agentes de usuario del navegador para ayudar a la detección de spam.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Una cadena anónima creada a partir de tu dirección de correo electrónico (también llamada hash) puede ser proporcionada al servicio de Gravatar para ver si la estás usando. La política de privacidad del servicio Gravatar está disponible aquí: https://automattic.com/privacy/. Después de la aprobación de tu comentario, la imagen de tu perfil es visible para el público en el contexto de tu comentario.</p><!-- /wp:paragraph --><!-- wp:heading {""level"":3} --><h3>Medios</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Si subes imágenes a la web, deberías evitar subir imágenes con datos de ubicación (GPS EXIF) incluidos. Los visitantes de la web pueden descargar y extraer cualquier dato de ubicación de las imágenes de la web.</p><!-- /wp:paragraph --><!-- wp:heading {""level"":3} --><h3>Formularios de contacto</h3><!-- /wp:heading --><!-- wp:heading {""level"":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Si dejas un comentario en nuestro sitio puedes elegir guardar tu nombre, dirección de correo electrónico y web en cookies. Esto es para tu comodidad, para que no tengas que volver a rellenar tus datos cuando dejes otro comentario. Estas cookies tendrán una duración de un año.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Si tienes una cuenta y te conectas a este sitio, instalaremos una cookie temporal para determinar si tu navegador acepta cookies. Esta cookie no contiene datos personales y se elimina al cerrar el navegador.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Cuando accedas, también instalaremos varias cookies para guardar tu información de acceso y tus opciones de visualización de pantalla. Las cookies de acceso duran dos días, y las cookies de opciones de pantalla duran un año. Si seleccionas «Recuérdarme», tu acceso perdurará durante dos semanas. Si sales de tu cuenta, las cookies de acceso se eliminarán.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Si editas o publicas un artículo se guardará una cookie adicional en tu navegador. Esta cookie no incluye datos personales y simplemente indica el ID del artículo que acabas de editar. Caduca después de 1 día.</p><!-- /wp:paragraph --><!-- wp:heading {""level"":3} --><h3>Contenido incrustado de otros sitios web</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Los artículos de este sitio pueden incluir contenido incrustado (por ejemplo, vídeos, imágenes, artículos, etc.). El contenido incrustado de otras webs se comporta exactamente de la misma manera que si el visitante hubiera visitado la otra web.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Estas web pueden recopilar datos sobre ti, utilizar cookies, incrustar un seguimiento adicional de terceros, y supervisar tu interacción con ese contenido incrustado, incluido el seguimiento de tu interacción con el contenido incrustado si tienes una cuenta y estás conectado a esa web.</p><!-- /wp:paragraph --><!-- wp:heading {""level"":3} --><h3>Analítica</h3><!-- /wp:heading --><!-- wp:heading --><h2>Con quién compartimos tus datos</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Si solicitas un restablecimiento de contraseña, tu dirección IP será incluida en el correo electrónico de restablecimiento.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cuánto tiempo conservamos tus datos</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Si dejas un comentario, el comentario y sus metadatos se conservan indefinidamente. Esto es para que podamos reconocer y aprobar comentarios sucesivos automáticamente, en lugar de mantenerlos en una cola de moderación.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>De los usuarios que se registran en nuestra web (si los hay), también almacenamos la información personal que proporcionan en su perfil de usuario. Todos los usuarios pueden ver, editar o eliminar su información personal en cualquier momento (excepto que no pueden cambiar su nombre de usuario). Los administradores de la web también pueden ver y editar esa información.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Qué derechos tienes sobre tus datos</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Si tienes una cuenta o has dejado comentarios en esta web, puedes solicitar recibir un archivo de exportación de los datos personales que tenemos sobre ti, incluyendo cualquier dato que nos hayas proporcionado. También puedes solicitar que eliminemos cualquier dato personal que tengamos sobre ti. Esto no incluye ningún dato que estemos obligados a conservar con fines administrativos, legales o de seguridad.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Dónde enviamos tus datos</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Los comentarios de los visitantes puede que los revise un servicio de detección automática de spam.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Tu información de contacto</h2><!-- /wp:heading --><!-- wp:heading --><h2>Información adicional</h2><!-- /wp:heading --><!-- wp:heading {""level"":3} --><h3>Cómo protegemos tus datos</h3><!-- /wp:heading --><!-- wp:heading {""level"":3} --><h3>Qué procedimientos utilizamos contra las brechas de datos</h3><!-- /wp:heading --><!-- wp:heading {""level"":3} --><h3>De qué terceros recibimos datos</h3><!-- /wp:heading --><!-- wp:heading {""level"":3} --><h3>Qué tipo de toma de decisiones automatizada y/o perfilado hacemos con los datos del usuario</h3><!-- /wp:heading --><!-- wp:heading {""level"":3} --><h3>Requerimientos regulatorios de revelación de información del sector</h3><!-- /wp:heading -->"	"Política de privacidad"	""	"draft"	"closed"	"open"	""	"politica-privacidad"	""	""	"15/12/2020 09:51:10"	"15/12/2020 09:51:10"	""	"0"	"http://localhost/wordpress/?page_id=3"	"0"	"page"	""	"0"
+"20"	"1"	"15/12/2020 10:13:28"	"15/12/2020 10:13:28"	"<!-- wp:group {""align"":""wide""} --><div class=""wp-block-group alignwide""><div class=""wp-block-group__inner-container""><!-- wp:heading {""align"":""center""} --><h2 class=""has-text-align-center"">El principal destino para el arte moderno en el norte de Suecia. Abierto de 10:00 a 18:00 h. todos los días durante los meses de verano.</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:columns {""align"":""wide""} --><div class=""wp-block-columns alignwide""><!-- wp:column --><div class=""wp-block-column""><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-1.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>Obras y días</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Agosto -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-3.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>Teatro de operaciones</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Octubre -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --><!-- wp:column --><div class=""wp-block-column""><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-2.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>La vida que me merezco</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Agosto -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-4.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>Desde Signac a Matisse</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Octubre -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --></div><!-- /wp:columns --><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-landscape-2.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:group {""align"":""wide""} --><div class=""wp-block-group alignwide""><div class=""wp-block-group__inner-container""><!-- wp:heading {""align"":""center"",""textColor"":""accent""} --><h2 class=""has-accent-color has-text-align-center"">«Los cíborgs, como estableció la filósofa Donna Haraway, no son reverentes. No recuerdan el cosmos».</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:paragraph {""dropCap"":true} --><p class=""has-drop-cap"">Con siete pisos de arquitectura impresionante, UMoMA muestra exposiciones de arte contemporáneo internacional, a veces junto con retrospectivas históricas del arte. Los problemas existenciales, políticos y filosóficos son intrínsecos a nuestro programa. Como visitante, estás invitado a visitas guiadas, charlas de artistas, conferencias, proyecciones de películas y otros eventos con entrada gratuita</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Las exposiciones son realizadas por UMoMA en colaboración con artistas y museos de todo el mundo y, a menudo, atraen la atención internacional. UMoMA ha recibido una mención especial del Museo Europeo del Año y ha sido uno de los principales candidatos al Premio Sueco al Museo del Año, así como al Premio del Consejo de Europa.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p></p><!-- /wp:paragraph --><!-- wp:group {""customBackgroundColor"":""#ffffff"",""align"":""wide""} --><div class=""wp-block-group alignwide has-background"" style=""background-color:#ffffff""><div class=""wp-block-group__inner-container""><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:heading {""align"":""center""} --><h2 class=""has-text-align-center"">¡Hazte miembro y obtén ofertas exclusivas!</h2><!-- /wp:heading --><!-- wp:paragraph {""align"":""center""} --><p class=""has-text-align-center"">Los miembros obtienen acceso a exhibiciones y ventas exclusivas. Nuestra membresía cuesta 99,99 $ y es facturada anualmente.</p><!-- /wp:paragraph --><!-- wp:button {""align"":""center""} --><div class=""wp-block-button aligncenter""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Únete al club</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div></div><!-- /wp:group --><!-- wp:gallery {""ids"":[39,38],""align"":""wide""} --><figure class=""wp-block-gallery alignwide columns-2 is-cropped""><ul class=""blocks-gallery-grid""><li class=""blocks-gallery-item""><figure><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-2.png"" alt="""" data-id=""39"" data-full-url=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-2.png"" data-link=""assets/images/2020-square-2/"" class=""wp-image-39""/></figure></li><li class=""blocks-gallery-item""><figure><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-1.png"" alt="""" data-id=""38"" data-full-url=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-1.png"" data-link=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-1/"" class=""wp-image-38""/></figure></li></ul></figure><!-- /wp:gallery -->"	"El nuevo UMoMA abre sus puertas"	""	"publish"	"closed"	"closed"	""	"el-nuevo-umoma-abre-sus-puertas"	""	""	"15/12/2020 10:13:28"	"15/12/2020 10:13:28"	""	"0"	"http://localhost/wordpress/?page_id=20"	"0"	"page"	""	"0"
+"21"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	"<!-- wp:paragraph -->
+<p>Puedes ser un artista que quiere presentarse a sí mismo y a su trabajo o un negocio con un objetivo que describir.</p>
+<!-- /wp:paragraph -->"	"Acerca de"	""	"publish"	"closed"	"closed"	""	"acerca-de"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"0"	"http://localhost/wordpress/?page_id=21"	"0"	"page"	""	"0"
+"22"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	"<!-- wp:paragraph -->
+<p>Esta es una página con información de contacto básica, como la dirección y el número de teléfono. Incluso puedes probar un plugin para añadir un formulario de contacto.</p>
+<!-- /wp:paragraph -->"	"Contacto"	""	"publish"	"closed"	"closed"	""	"contacto"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"0"	"http://localhost/wordpress/?page_id=22"	"0"	"page"	""	"0"
+"23"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"Blog"	""	"publish"	"closed"	"closed"	""	"blog"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"0"	"http://localhost/wordpress/?page_id=23"	"0"	"page"	""	"0"
+"24"	"1"	"15/12/2020 10:13:28"	"15/12/2020 10:13:28"	"{
+    ""widget_text[4]"": {
+        ""starter_content"": true,
+        ""value"": {
+            ""encoded_serialized_instance"": ""YTo0OntzOjU6InRpdGxlIjtzOjIwOiJBY2VyY2EgZGUgZXN0ZSBzaXRpbyI7czo0OiJ0ZXh0IjtzOjEwODoiRXN0ZSBwdWVkZSBzZXIgdW4gYnVlbiBsdWdhciBwYXJhIHByZXNlbnRhcnRlIGEgdGkgbWlzbW8geSBhIHR1IHNpdGlvIG8gcGFyYSBpbmNsdWlyIGFsZ3VuYXMgYWNyZWRpdGFjaW9uZXMuIjtzOjY6ImZpbHRlciI7YjoxO3M6NjoidmlzdWFsIjtiOjE7fQ=="",
+            ""title"": ""Acerca de este sitio"",
+            ""is_widget_customizer_js_value"": true,
+            ""instance_hash_key"": ""d7b99d6a6f08602d9027d0e0c37bbacb""
+        },
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""sidebars_widgets[sidebar-1]"": {
+        ""starter_content"": true,
+        ""value"": [
+            ""text-4""
+        ],
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""widget_text[5]"": {
+        ""starter_content"": true,
+        ""value"": {
+            ""encoded_serialized_instance"": ""YTo0OntzOjU6InRpdGxlIjtzOjEzOiJFbmN1w6ludHJhbm9zIjtzOjQ6InRleHQiO3M6MTYxOiI8c3Ryb25nPkRpcmVjY2nDs248L3N0cm9uZz4KQ2FsbGUgUHJpbmNpcGFsLCAxMjMKTWFkcmlkLCAyODAwMAoKPHN0cm9uZz5Ib3Jhczwvc3Ryb25nPgpMdW5lcyBhIHZpZXJuZXM6IGRlIDk6MDAgYSAxNzowMCBoLgpTw6FiYWRvIHkgZG9taW5nbzogZGUgMTE6MDAgYSAxNTowMCBoLiI7czo2OiJmaWx0ZXIiO2I6MTtzOjY6InZpc3VhbCI7YjoxO30="",
+            ""title"": ""Encu\u00e9ntranos"",
+            ""is_widget_customizer_js_value"": true,
+            ""instance_hash_key"": ""896142ea3cd506d77b888c4d52a9467e""
+        },
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""sidebars_widgets[sidebar-2]"": {
+        ""starter_content"": true,
+        ""value"": [
+            ""text-5""
+        ],
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""nav_menus_created_posts"": {
+        ""value"": [
+            20,
+            21,
+            22,
+            23,
+            25
+        ],
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu[-1]"": {
+        ""value"": {
+            ""name"": ""Principal"",
+            ""description"": """",
+            ""parent"": 0,
+            ""auto_add"": false
+        },
+        ""type"": ""nav_menu"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-1]"": {
+        ""value"": {
+            ""object_id"": 0,
+            ""object"": """",
+            ""menu_item_parent"": 0,
+            ""position"": 0,
+            ""type"": ""custom"",
+            ""title"": ""Inicio"",
+            ""url"": ""http://localhost/wordpress/"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""nav_menu_term_id"": -1,
+            ""_invalid"": false,
+            ""type_label"": ""Enlace personalizado""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-2]"": {
+        ""value"": {
+            ""object_id"": 21,
+            ""object"": ""page"",
+            ""menu_item_parent"": 0,
+            ""position"": 1,
+            ""type"": ""post_type"",
+            ""title"": ""Acerca de"",
+            ""url"": """",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": ""Acerca de"",
+            ""nav_menu_term_id"": -1,
+            ""_invalid"": false,
+            ""type_label"": ""P\u00e1gina""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-3]"": {
+        ""value"": {
+            ""object_id"": 23,
+            ""object"": ""page"",
+            ""menu_item_parent"": 0,
+            ""position"": 2,
+            ""type"": ""post_type"",
+            ""title"": ""Blog"",
+            ""url"": """",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": ""Blog"",
+            ""nav_menu_term_id"": -1,
+            ""_invalid"": false,
+            ""type_label"": ""P\u00e1gina""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-4]"": {
+        ""value"": {
+            ""object_id"": 22,
+            ""object"": ""page"",
+            ""menu_item_parent"": 0,
+            ""position"": 3,
+            ""type"": ""post_type"",
+            ""title"": ""Contacto"",
+            ""url"": """",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": ""Contacto"",
+            ""nav_menu_term_id"": -1,
+            ""_invalid"": false,
+            ""type_label"": ""P\u00e1gina""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""twentytwenty Luxenter::nav_menu_locations[primary]"": {
+        ""starter_content"": true,
+        ""value"": -1,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""nav_menu[-5]"": {
+        ""value"": {
+            ""name"": ""Principal"",
+            ""description"": """",
+            ""parent"": 0,
+            ""auto_add"": false
+        },
+        ""type"": ""nav_menu"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-5]"": {
+        ""value"": {
+            ""object_id"": 0,
+            ""object"": """",
+            ""menu_item_parent"": 0,
+            ""position"": 0,
+            ""type"": ""custom"",
+            ""title"": ""Inicio"",
+            ""url"": ""http://localhost/wordpress/"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""nav_menu_term_id"": -5,
+            ""_invalid"": false,
+            ""type_label"": ""Enlace personalizado""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-6]"": {
+        ""value"": false,
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-7]"": {
+        ""value"": false,
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-8]"": {
+        ""value"": false,
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""twentytwenty Luxenter::nav_menu_locations[expanded]"": {
+        ""starter_content"": true,
+        ""value"": -5,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""nav_menu[-9]"": {
+        ""value"": {
+            ""name"": ""Men\u00fa de enlaces sociales"",
+            ""description"": """",
+            ""parent"": 0,
+            ""auto_add"": false
+        },
+        ""type"": ""nav_menu"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-9]"": {
+        ""value"": {
+            ""object_id"": 0,
+            ""object"": """",
+            ""menu_item_parent"": 0,
+            ""position"": 0,
+            ""type"": ""custom"",
+            ""title"": ""Yelp"",
+            ""url"": ""https://www.yelp.com"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""nav_menu_term_id"": -9,
+            ""_invalid"": false,
+            ""type_label"": ""Enlace personalizado""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-10]"": {
+        ""value"": {
+            ""object_id"": 0,
+            ""object"": """",
+            ""menu_item_parent"": 0,
+            ""position"": 1,
+            ""type"": ""custom"",
+            ""title"": ""Facebook"",
+            ""url"": ""https://www.facebook.com/wordpress"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""nav_menu_term_id"": -9,
+            ""_invalid"": false,
+            ""type_label"": ""Enlace personalizado""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-11]"": {
+        ""value"": {
+            ""object_id"": 0,
+            ""object"": """",
+            ""menu_item_parent"": 0,
+            ""position"": 2,
+            ""type"": ""custom"",
+            ""title"": ""Twitter"",
+            ""url"": ""https://twitter.com/wordpress"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""nav_menu_term_id"": -9,
+            ""_invalid"": false,
+            ""type_label"": ""Enlace personalizado""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-12]"": {
+        ""value"": {
+            ""object_id"": 0,
+            ""object"": """",
+            ""menu_item_parent"": 0,
+            ""position"": 3,
+            ""type"": ""custom"",
+            ""title"": ""Instagram"",
+            ""url"": ""https://www.instagram.com/explore/tags/wordcamp/"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""nav_menu_term_id"": -9,
+            ""_invalid"": false,
+            ""type_label"": ""Enlace personalizado""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""nav_menu_item[-13]"": {
+        ""value"": {
+            ""object_id"": 0,
+            ""object"": """",
+            ""menu_item_parent"": 0,
+            ""position"": 4,
+            ""type"": ""custom"",
+            ""title"": ""Correo electr\u00f3nico"",
+            ""url"": ""mailto:wordpress@example.com"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""nav_menu_term_id"": -9,
+            ""_invalid"": false,
+            ""type_label"": ""Enlace personalizado""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    },
+    ""twentytwenty Luxenter::nav_menu_locations[social]"": {
+        ""starter_content"": true,
+        ""value"": -9,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""show_on_front"": {
+        ""starter_content"": true,
+        ""value"": ""page"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""page_on_front"": {
+        ""starter_content"": true,
+        ""value"": 20,
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""page_for_posts"": {
+        ""starter_content"": true,
+        ""value"": 23,
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:12:47""
+    },
+    ""nav_menu_item[-1552463053]"": {
+        ""value"": {
+            ""object_id"": 25,
+            ""object"": ""page"",
+            ""menu_item_parent"": 0,
+            ""position"": 1,
+            ""type"": ""post_type"",
+            ""title"": ""Gestionar"",
+            ""url"": ""http://localhost/wordpress/?page_id=25"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": ""Gestionar"",
+            ""nav_menu_term_id"": -5,
+            ""_invalid"": false,
+            ""type_label"": ""P\u00e1gina""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:13:28""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"32127bd1-0cee-40ca-9efa-5a5eba147b19"	""	""	"15/12/2020 10:13:28"	"15/12/2020 10:13:28"	""	"0"	"http://localhost/wordpress/?p=24"	"0"	"customize_changeset"	""	"0"
+"25"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"Gestionar"	""	"publish"	"closed"	"closed"	""	"gestionar"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"0"	"http://localhost/wordpress/?page_id=25"	"0"	"page"	""	"0"
+"26"	"1"	"15/12/2020 10:13:28"	"15/12/2020 10:13:28"	"<!-- wp:group {""align"":""wide""} --><div class=""wp-block-group alignwide""><div class=""wp-block-group__inner-container""><!-- wp:heading {""align"":""center""} --><h2 class=""has-text-align-center"">El principal destino para el arte moderno en el norte de Suecia. Abierto de 10:00 a 18:00 h. todos los días durante los meses de verano.</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:columns {""align"":""wide""} --><div class=""wp-block-columns alignwide""><!-- wp:column --><div class=""wp-block-column""><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-1.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>Obras y días</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Agosto -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-3.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>Teatro de operaciones</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Octubre -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --><!-- wp:column --><div class=""wp-block-column""><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-2.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>La vida que me merezco</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Agosto -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-three-quarters-4.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:heading {""level"":3} --><h3>Desde Signac a Matisse</h3><!-- /wp:heading --><!-- wp:paragraph --><p>1 de Octubre -- 1 de Diciembre</p><!-- /wp:paragraph --><!-- wp:button {""className"":""is-style-outline""} --><div class=""wp-block-button is-style-outline""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Leer más</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div><!-- /wp:column --></div><!-- /wp:columns --><!-- wp:image {""align"":""full"",""id"":37,""sizeSlug"":""full""} --><figure class=""wp-block-image alignfull size-full""><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-landscape-2.png"" alt="""" class=""wp-image-37""/></figure><!-- /wp:image --><!-- wp:group {""align"":""wide""} --><div class=""wp-block-group alignwide""><div class=""wp-block-group__inner-container""><!-- wp:heading {""align"":""center"",""textColor"":""accent""} --><h2 class=""has-accent-color has-text-align-center"">«Los cíborgs, como estableció la filósofa Donna Haraway, no son reverentes. No recuerdan el cosmos».</h2><!-- /wp:heading --></div></div><!-- /wp:group --><!-- wp:paragraph {""dropCap"":true} --><p class=""has-drop-cap"">Con siete pisos de arquitectura impresionante, UMoMA muestra exposiciones de arte contemporáneo internacional, a veces junto con retrospectivas históricas del arte. Los problemas existenciales, políticos y filosóficos son intrínsecos a nuestro programa. Como visitante, estás invitado a visitas guiadas, charlas de artistas, conferencias, proyecciones de películas y otros eventos con entrada gratuita</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Las exposiciones son realizadas por UMoMA en colaboración con artistas y museos de todo el mundo y, a menudo, atraen la atención internacional. UMoMA ha recibido una mención especial del Museo Europeo del Año y ha sido uno de los principales candidatos al Premio Sueco al Museo del Año, así como al Premio del Consejo de Europa.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p></p><!-- /wp:paragraph --><!-- wp:group {""customBackgroundColor"":""#ffffff"",""align"":""wide""} --><div class=""wp-block-group alignwide has-background"" style=""background-color:#ffffff""><div class=""wp-block-group__inner-container""><!-- wp:group --><div class=""wp-block-group""><div class=""wp-block-group__inner-container""><!-- wp:heading {""align"":""center""} --><h2 class=""has-text-align-center"">¡Hazte miembro y obtén ofertas exclusivas!</h2><!-- /wp:heading --><!-- wp:paragraph {""align"":""center""} --><p class=""has-text-align-center"">Los miembros obtienen acceso a exhibiciones y ventas exclusivas. Nuestra membresía cuesta 99,99 $ y es facturada anualmente.</p><!-- /wp:paragraph --><!-- wp:button {""align"":""center""} --><div class=""wp-block-button aligncenter""><a class=""wp-block-button__link"" href=""https://make.wordpress.org/core/2019/09/27/block-editor-theme-related-updates-in-wordpress-5-3/"">Únete al club</a></div><!-- /wp:button --></div></div><!-- /wp:group --></div></div><!-- /wp:group --><!-- wp:gallery {""ids"":[39,38],""align"":""wide""} --><figure class=""wp-block-gallery alignwide columns-2 is-cropped""><ul class=""blocks-gallery-grid""><li class=""blocks-gallery-item""><figure><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-2.png"" alt="""" data-id=""39"" data-full-url=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-2.png"" data-link=""assets/images/2020-square-2/"" class=""wp-image-39""/></figure></li><li class=""blocks-gallery-item""><figure><img src=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-1.png"" alt="""" data-id=""38"" data-full-url=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-1.png"" data-link=""http://localhost/wordpress/wp-content/themes/twentytwenty%20Luxenter/assets/images/2020-square-1/"" class=""wp-image-38""/></figure></li></ul></figure><!-- /wp:gallery -->"	"El nuevo UMoMA abre sus puertas"	""	"inherit"	"closed"	"closed"	""	"20-revision-v1"	""	""	"15/12/2020 10:13:28"	"15/12/2020 10:13:28"	""	"20"	"http://localhost/wordpress/index.php/2020/12/15/20-revision-v1/"	"0"	"revision"	""	"0"
+"27"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	"<!-- wp:paragraph -->
+<p>Puedes ser un artista que quiere presentarse a sí mismo y a su trabajo o un negocio con un objetivo que describir.</p>
+<!-- /wp:paragraph -->"	"Acerca de"	""	"inherit"	"closed"	"closed"	""	"21-revision-v1"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"21"	"http://localhost/wordpress/index.php/2020/12/15/21-revision-v1/"	"0"	"revision"	""	"0"
+"28"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	"<!-- wp:paragraph -->
+<p>Esta es una página con información de contacto básica, como la dirección y el número de teléfono. Incluso puedes probar un plugin para añadir un formulario de contacto.</p>
+<!-- /wp:paragraph -->"	"Contacto"	""	"inherit"	"closed"	"closed"	""	"22-revision-v1"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"22"	"http://localhost/wordpress/index.php/2020/12/15/22-revision-v1/"	"0"	"revision"	""	"0"
+"29"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"Blog"	""	"inherit"	"closed"	"closed"	""	"23-revision-v1"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"23"	"http://localhost/wordpress/index.php/2020/12/15/23-revision-v1/"	"0"	"revision"	""	"0"
+"30"	"1"	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"Gestionar"	""	"inherit"	"closed"	"closed"	""	"25-revision-v1"	""	""	"15/12/2020 10:13:29"	"15/12/2020 10:13:29"	""	"25"	"http://localhost/wordpress/index.php/2020/12/15/25-revision-v1/"	"0"	"revision"	""	"0"
+"31"	"1"	"15/12/2020 10:13:30"	"15/12/2020 10:13:30"	""	"Inicio"	""	"publish"	"closed"	"closed"	""	"inicio"	""	""	"16/12/2020 09:11:19"	"16/12/2020 09:11:19"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/inicio/"	"1"	"nav_menu_item"	""	"0"
+"37"	"1"	"15/12/2020 10:13:34"	"15/12/2020 10:13:34"	""	"Facebook"	""	"publish"	"closed"	"closed"	""	"facebook"	""	""	"15/12/2020 10:13:34"	"15/12/2020 10:13:34"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/facebook/"	"1"	"nav_menu_item"	""	"0"
+"38"	"1"	"15/12/2020 10:13:35"	"15/12/2020 10:13:35"	""	"Twitter"	""	"publish"	"closed"	"closed"	""	"twitter"	""	""	"15/12/2020 10:13:35"	"15/12/2020 10:13:35"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/twitter/"	"2"	"nav_menu_item"	""	"0"
+"39"	"1"	"15/12/2020 10:13:35"	"15/12/2020 10:13:35"	""	"Instagram"	""	"publish"	"closed"	"closed"	""	"instagram"	""	""	"15/12/2020 10:13:35"	"15/12/2020 10:13:35"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/instagram/"	"3"	"nav_menu_item"	""	"0"
+"40"	"1"	"15/12/2020 10:13:36"	"15/12/2020 10:13:36"	""	"Correo electrónico"	""	"publish"	"closed"	"closed"	""	"correo-electronico"	""	""	"15/12/2020 10:13:36"	"15/12/2020 10:13:36"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/correo-electronico/"	"4"	"nav_menu_item"	""	"0"
+"42"	"1"	"15/12/2020 10:14:14"	"15/12/2020 10:14:14"	"{
+    ""twentytwenty Luxenter::nav_menu_locations[expanded]"": {
+        ""value"": 0,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:14:08""
+    },
+    ""nav_menu[3]"": {
+        ""value"": false,
+        ""type"": ""nav_menu"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:14:08""
+    },
+    ""nav_menu_item[32]"": {
+        ""value"": false,
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:14:08""
+    },
+    ""nav_menu_item[33]"": {
+        ""value"": false,
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:14:08""
+    },
+    ""nav_menu_item[34]"": {
+        ""value"": false,
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:14:08""
+    },
+    ""nav_menu_item[-1703673563]"": {
+        ""value"": {
+            ""object_id"": 25,
+            ""object"": ""page"",
+            ""menu_item_parent"": 0,
+            ""position"": 1,
+            ""type"": ""post_type"",
+            ""title"": ""Gestionar"",
+            ""url"": ""http://localhost/wordpress/?page_id=25"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": ""Gestionar"",
+            ""nav_menu_term_id"": 2,
+            ""_invalid"": false,
+            ""type_label"": ""P\u00e1gina""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:14:14""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"1a489a75-2705-44e8-8516-e8dedc2d977d"	""	""	"15/12/2020 10:14:14"	"15/12/2020 10:14:14"	""	"0"	"http://localhost/wordpress/?p=42"	"0"	"customize_changeset"	""	"0"
+"43"	"1"	"15/12/2020 10:14:17"	"15/12/2020 10:14:17"	" "	""	""	"publish"	"closed"	"closed"	""	"43"	""	""	"15/12/2020 10:14:17"	"15/12/2020 10:14:17"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/43/"	"1"	"nav_menu_item"	""	"0"
+"44"	"1"	"15/12/2020 10:15:56"	"15/12/2020 10:15:56"	"{
+    ""twentytwenty Luxenter::cover_template_overlay_background_color"": {
+        ""value"": ""#314a6c"",
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:15:56""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"ab396331-fca1-4e06-9909-a215e3654e26"	""	""	"15/12/2020 10:15:56"	"15/12/2020 10:15:56"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/ab396331-fca1-4e06-9909-a215e3654e26/"	"0"	"customize_changeset"	""	"0"
+"45"	"1"	"15/12/2020 10:16:11"	"15/12/2020 10:16:11"	"{
+    ""twentytwenty Luxenter::background_color"": {
+        ""value"": ""#314a6c"",
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:16:11""
+    },
+    ""twentytwenty Luxenter::accent_accessible_colors"": {
+        ""value"": {
+            ""content"": {
+                ""text"": ""#ffffff"",
+                ""accent"": ""#eca6b9"",
+                ""background"": ""#314a6c"",
+                ""borders"": ""#3f5f8c"",
+                ""secondary"": ""#bcc6d1""
+            },
+            ""header-footer"": {
+                ""text"": ""#000000"",
+                ""accent"": ""#cd2653"",
+                ""secondary"": ""#6d6d6d"",
+                ""borders"": ""#dcd7ca""
+            }
+        },
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:16:11""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"b1f81c6c-7e53-49e4-ab78-a3c32cf3995f"	""	""	"15/12/2020 10:16:11"	"15/12/2020 10:16:11"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/b1f81c6c-7e53-49e4-ab78-a3c32cf3995f/"	"0"	"customize_changeset"	""	"0"
+"46"	"1"	"15/12/2020 10:16:45"	"15/12/2020 10:16:45"	"{
+    ""twentytwenty Luxenter::accent_hue_active"": {
+        ""value"": ""default"",
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:16:34""
+    },
+    ""twentytwenty Luxenter::accent_hue"": {
+        ""value"": 344,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:16:34""
+    },
+    ""twentytwenty Luxenter::accent_accessible_colors"": {
+        ""value"": {
+            ""content"": {
+                ""text"": ""#ffffff"",
+                ""accent"": ""#eca6b9"",
+                ""background"": ""#314a6c"",
+                ""borders"": ""#3f5f8c"",
+                ""secondary"": ""#bcc6d1""
+            },
+            ""header-footer"": {
+                ""text"": ""#000000"",
+                ""accent"": ""#e22658"",
+                ""background"": ""#ffffff"",
+                ""borders"": ""#dbdbdb"",
+                ""secondary"": ""#6d6d6d""
+            }
+        },
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:16:34""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"7cbd90f2-5628-4681-a56c-e550c3ad6f3c"	""	""	"15/12/2020 10:16:45"	"15/12/2020 10:16:45"	""	"0"	"http://localhost/wordpress/?p=46"	"0"	"customize_changeset"	""	"0"
+"47"	"1"	"15/12/2020 10:17:21"	"15/12/2020 10:17:21"	"{
+    ""blogname"": {
+        ""value"": """",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:17:21""
+    },
+    ""blogdescription"": {
+        ""value"": ""Portal Tiendas Luxenter"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:17:21""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"2615a558-60fa-4bf9-a02f-d06f617b3dc4"	""	""	"15/12/2020 10:17:21"	"15/12/2020 10:17:21"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/2615a558-60fa-4bf9-a02f-d06f617b3dc4/"	"0"	"customize_changeset"	""	"0"
+"48"	"1"	"15/12/2020 10:21:33"	"15/12/2020 10:21:33"	""	"Luxenter"	""	"inherit"	"open"	"closed"	""	"newlogo"	""	""	"15/12/2020 10:21:50"	"15/12/2020 10:21:50"	""	"0"	"http://localhost/wordpress/wp-content/uploads/2020/12/newLogo-1.png"	"0"	"attachment"	"image/png"	"0"
+"49"	"1"	"15/12/2020 10:21:57"	"15/12/2020 10:21:57"	"http://localhost/wordpress/wp-content/uploads/2020/12/cropped-newLogo-1-1.png"	"cropped-newLogo-1-1.png"	""	"inherit"	"open"	"closed"	""	"cropped-newlogo-1-1-png"	""	""	"15/12/2020 10:21:57"	"15/12/2020 10:21:57"	""	"0"	"http://localhost/wordpress/wp-content/uploads/2020/12/cropped-newLogo-1-1.png"	"0"	"attachment"	"image/png"	"0"
+"50"	"1"	"15/12/2020 10:22:19"	"15/12/2020 10:22:19"	"http://localhost/wordpress/wp-content/uploads/2020/12/cropped-newLogo-1-2.png"	"cropped-newLogo-1-2.png"	""	"inherit"	"open"	"closed"	""	"cropped-newlogo-1-2-png"	""	""	"15/12/2020 10:22:19"	"15/12/2020 10:22:19"	""	"0"	"http://localhost/wordpress/wp-content/uploads/2020/12/cropped-newLogo-1-2.png"	"0"	"attachment"	"image/png"	"0"
+"51"	"1"	"15/12/2020 10:22:28"	"15/12/2020 10:22:28"	"{
+    ""site_icon"": {
+        ""value"": 50,
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:22:28""
+    },
+    ""twentytwenty Luxenter::custom_logo"": {
+        ""value"": 49,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:22:28""
+    },
+    ""twentytwenty Luxenter::retina_logo"": {
+        ""value"": true,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 10:22:28""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"ce9b0a9c-64fc-4d90-b445-716db1eb4167"	""	""	"15/12/2020 10:22:28"	"15/12/2020 10:22:28"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/ce9b0a9c-64fc-4d90-b445-716db1eb4167/"	"0"	"customize_changeset"	""	"0"
+"52"	"1"	"15/12/2020 11:06:49"	"15/12/2020 11:06:49"	"{
+    ""custom_css[twentytwenty Luxenter]"": {
+        ""value"": ""body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {\n    color: #e22658;\n}"",
+        ""type"": ""custom_css"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:06:49""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"9f2f70f5-358e-4e28-b629-5d074bce7bf1"	""	""	"15/12/2020 11:06:49"	"15/12/2020 11:06:49"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/9f2f70f5-358e-4e28-b629-5d074bce7bf1/"	"0"	"customize_changeset"	""	"0"
+"53"	"1"	"15/12/2020 11:06:49"	"15/12/2020 11:06:49"	"/*Links color*/
+body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+    color: #314A6C;
+}
+
+/*logos redes sociales*/
+.social-icons a, #site-footer button:not(.toggle), #site-footer .button, #site-footer .faux-button, #site-footer .wp-block-button__link, #site-footer .wp-block-file__button, #site-footer input[type=""button""], #site-footer input[type=""reset""], #site-footer input[type=""submit""] {
+    background-color: #314A6C;
+}
+
+"	"twentytwenty Luxenter"	""	"publish"	"closed"	"closed"	""	"twentytwenty-luxenter"	""	""	"15/12/2020 11:09:21"	"15/12/2020 11:09:21"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/twentytwenty-luxenter/"	"0"	"custom_css"	""	"0"
+"54"	"1"	"15/12/2020 11:06:49"	"15/12/2020 11:06:49"	"body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+    color: #e22658;
+}"	"twentytwenty Luxenter"	""	"inherit"	"closed"	"closed"	""	"53-revision-v1"	""	""	"15/12/2020 11:06:49"	"15/12/2020 11:06:49"	""	"53"	"http://localhost/wordpress/index.php/2020/12/15/53-revision-v1/"	"0"	"revision"	""	"0"
+"55"	"1"	"15/12/2020 11:07:47"	"15/12/2020 11:07:47"	"{
+    ""custom_css[twentytwenty Luxenter]"": {
+        ""value"": ""body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {\n    color: #314A6C;\n}"",
+        ""type"": ""custom_css"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:07:47""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"63c0b58d-686a-45f8-9728-05059ba01861"	""	""	"15/12/2020 11:07:47"	"15/12/2020 11:07:47"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/63c0b58d-686a-45f8-9728-05059ba01861/"	"0"	"customize_changeset"	""	"0"
+"56"	"1"	"15/12/2020 11:07:48"	"15/12/2020 11:07:48"	"body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+    color: #314A6C;
+}"	"twentytwenty Luxenter"	""	"inherit"	"closed"	"closed"	""	"53-revision-v1"	""	""	"15/12/2020 11:07:48"	"15/12/2020 11:07:48"	""	"53"	"http://localhost/wordpress/index.php/2020/12/15/53-revision-v1/"	"0"	"revision"	""	"0"
+"57"	"1"	"15/12/2020 11:09:21"	"15/12/2020 11:09:21"	"{
+    ""custom_css[twentytwenty Luxenter]"": {
+        ""value"": ""/*Links color*/\nbody:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {\n    color: #314A6C;\n}\n\n/*logos redes sociales*/\n.social-icons a, #site-footer button:not(.toggle), #site-footer .button, #site-footer .faux-button, #site-footer .wp-block-button__link, #site-footer .wp-block-file__button, #site-footer input[type=\""button\""], #site-footer input[type=\""reset\""], #site-footer input[type=\""submit\""] {\n    background-color: #314A6C;\n}\n\n"",
+        ""type"": ""custom_css"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:09:21""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"3166a9ff-a8b6-4ac7-a2d2-42510de2ec42"	""	""	"15/12/2020 11:09:21"	"15/12/2020 11:09:21"	""	"0"	"http://localhost/wordpress/?p=57"	"0"	"customize_changeset"	""	"0"
+"58"	"1"	"15/12/2020 11:09:21"	"15/12/2020 11:09:21"	"/*Links color*/
+body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
+    color: #314A6C;
+}
+
+/*logos redes sociales*/
+.social-icons a, #site-footer button:not(.toggle), #site-footer .button, #site-footer .faux-button, #site-footer .wp-block-button__link, #site-footer .wp-block-file__button, #site-footer input[type=""button""], #site-footer input[type=""reset""], #site-footer input[type=""submit""] {
+    background-color: #314A6C;
+}
+
+"	"twentytwenty Luxenter"	""	"inherit"	"closed"	"closed"	""	"53-revision-v1"	""	""	"15/12/2020 11:09:21"	"15/12/2020 11:09:21"	""	"53"	"http://localhost/wordpress/index.php/2020/12/15/53-revision-v1/"	"0"	"revision"	""	"0"
+"59"	"1"	"15/12/2020 11:09:50"	"15/12/2020 11:09:50"	"{
+    ""nav_menu_item[36]"": {
+        ""value"": false,
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:09:48""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"86aa9fc0-2263-4d2c-bcfa-05231b0ea1a0"	""	""	"15/12/2020 11:09:50"	"15/12/2020 11:09:50"	""	"0"	"http://localhost/wordpress/?p=59"	"0"	"customize_changeset"	""	"0"
+"60"	"1"	"15/12/2020 11:10:43"	"15/12/2020 11:10:43"	"{
+    ""page_for_posts"": {
+        ""value"": ""2"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:10:43""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"8cea1dcc-ccc1-4cba-a839-3486b9591e18"	""	""	"15/12/2020 11:10:43"	"15/12/2020 11:10:43"	""	"0"	"http://localhost/wordpress/index.php/2020/12/15/8cea1dcc-ccc1-4cba-a839-3486b9591e18/"	"0"	"customize_changeset"	""	"0"
+"61"	"1"	"15/12/2020 11:11:50"	"15/12/2020 11:11:50"	"{
+    ""page_for_posts"": {
+        ""value"": ""25"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:11:23""
+    },
+    ""page_on_front"": {
+        ""value"": ""2"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:11:50""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"e3b0c3d5-2b98-4d60-9a16-b761eb69b41c"	""	""	"15/12/2020 11:11:50"	"15/12/2020 11:11:50"	""	"0"	"http://localhost/wordpress/?p=61"	"0"	"customize_changeset"	""	"0"
+"62"	"1"	"15/12/2020 11:13:12"	"15/12/2020 11:13:12"	"{
+    ""page_on_front"": {
+        ""value"": ""0"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:13:12""
+    },
+    ""page_for_posts"": {
+        ""value"": ""2"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:12:23""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"fc358844-c12e-46de-b51c-91e8a55c5783"	""	""	"15/12/2020 11:13:12"	"15/12/2020 11:13:12"	""	"0"	"http://localhost/wordpress/?p=62"	"0"	"customize_changeset"	""	"0"
+"63"	"1"	"15/12/2020 11:14:25"	"15/12/2020 11:14:25"	"{
+    ""twentytwenty Luxenter::enable_header_search"": {
+        ""value"": false,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:14:23""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"e4f60837-b295-45ce-bfd6-988bb1a806f4"	""	""	"15/12/2020 11:14:25"	"15/12/2020 11:14:25"	""	"0"	"http://localhost/wordpress/?p=63"	"0"	"customize_changeset"	""	"0"
+"64"	"1"	"15/12/2020 11:58:45"	"15/12/2020 11:58:45"	"{
+    ""nav_menu_item[31]"": {
+        ""value"": {
+            ""menu_item_parent"": 0,
+            ""object_id"": 31,
+            ""object"": ""custom"",
+            ""type"": ""custom"",
+            ""type_label"": ""Enlace personalizado"",
+            ""title"": ""Inicio"",
+            ""url"": ""http://172.16.18.40/wordpress/"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""nav_menu_term_id"": 2,
+            ""position"": 1,
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""_invalid"": false
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 11:58:45""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"816d296e-a2ad-4849-a762-cb932ad77258"	""	""	"15/12/2020 11:58:45"	"15/12/2020 11:58:45"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/15/816d296e-a2ad-4849-a762-cb932ad77258/"	"0"	"customize_changeset"	""	"0"
+"65"	"1"	"15/12/2020 12:21:17"	"15/12/2020 12:21:17"	"<!-- wp:paragraph -->
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+<!-- /wp:paragraph -->"	"¡Hola, mundo!"	""	"inherit"	"closed"	"closed"	""	"1-revision-v1"	""	""	"15/12/2020 12:21:17"	"15/12/2020 12:21:17"	""	"1"	"http://172.16.18.40/wordpress/index.php/2020/12/15/1-revision-v1/"	"0"	"revision"	""	"0"
+"66"	"1"	"15/12/2020 12:23:46"	"15/12/2020 12:23:46"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para gestionar los datos pulse  <a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->"	""	""	"trash"	"open"	"open"	""	"bienvenido-a-portal-luxenter__trashed"	""	""	"15/12/2020 12:51:23"	"15/12/2020 12:51:23"	""	"0"	"http://172.16.18.40/wordpress/?p=66"	"0"	"post"	""	"0"
+"67"	"1"	"15/12/2020 12:23:46"	"15/12/2020 12:23:46"	"<!-- wp:paragraph -->
+<p>Para gestionar los datos pulse  <a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></p>
+<!-- /wp:paragraph -->"	"Bienvenido a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"66-revision-v1"	""	""	"15/12/2020 12:23:46"	"15/12/2020 12:23:46"	""	"66"	"http://172.16.18.40/wordpress/index.php/2020/12/15/66-revision-v1/"	"0"	"revision"	""	"0"
+"69"	"1"	"15/12/2020 12:27:36"	"15/12/2020 12:27:36"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para gestionar los datos pulse  <a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></p>
+<!-- /wp:paragraph -->"	"Bienvenido a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"66-revision-v1"	""	""	"15/12/2020 12:27:36"	"15/12/2020 12:27:36"	""	"66"	"http://172.16.18.40/wordpress/index.php/2020/12/15/66-revision-v1/"	"0"	"revision"	""	"0"
+"70"	"1"	"15/12/2020 12:28:32"	"15/12/2020 12:28:32"	"{
+    ""page_for_posts"": {
+        ""value"": ""0"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 12:28:32""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"89d27154-55b2-4ade-9030-db3a123d8b53"	""	""	"15/12/2020 12:28:32"	"15/12/2020 12:28:32"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/15/89d27154-55b2-4ade-9030-db3a123d8b53/"	"0"	"customize_changeset"	""	"0"
+"71"	"1"	"15/12/2020 12:29:49"	"15/12/2020 12:29:49"	"{
+    ""twentytwenty Luxenter::blog_content"": {
+        ""value"": ""full"",
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 12:29:28""
+    },
+    ""twentytwenty Luxenter::cover_template_fixed_background"": {
+        ""value"": true,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 12:29:28""
+    },
+    ""twentytwenty Luxenter::enable_header_search"": {
+        ""value"": false,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 12:29:49""
+    },
+    ""twentytwenty Luxenter::show_author_bio"": {
+        ""value"": false,
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 12:29:49""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"4eb9b2d9-d837-45f8-92aa-af6584d86044"	""	""	"15/12/2020 12:29:49"	"15/12/2020 12:29:49"	""	"0"	"http://172.16.18.40/wordpress/?p=71"	"0"	"customize_changeset"	""	"0"
+"73"	"1"	"15/12/2020 12:32:22"	"15/12/2020 12:32:22"	"{
+    ""twentytwenty Luxenter::blog_content"": {
+        ""value"": ""full"",
+        ""type"": ""theme_mod"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 12:32:22""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"3cd97185-367b-498b-8e90-1cd0889bf099"	""	""	"15/12/2020 12:32:22"	"15/12/2020 12:32:22"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/15/3cd97185-367b-498b-8e90-1cd0889bf099/"	"0"	"customize_changeset"	""	"0"
+"75"	"1"	"15/12/2020 12:33:48"	"15/12/2020 12:33:48"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para gestionar los datos pulse  <a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class=""wp-block-code""><code>&lt;?php echo ""code"";
+></code></pre>
+<!-- /wp:code -->
+
+<!-- wp:code -->
+<pre class=""wp-block-code""><code>&lt;?php echo ""code"";
+?></code></pre>
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->"	"Bienvenido a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"66-revision-v1"	""	""	"15/12/2020 12:33:48"	"15/12/2020 12:33:48"	""	"66"	"http://172.16.18.40/wordpress/index.php/2020/12/15/66-revision-v1/"	"0"	"revision"	""	"0"
+"76"	"1"	"15/12/2020 12:34:06"	"15/12/2020 12:34:06"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para gestionar los datos pulse  <a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->"	"Bienvenido a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"66-revision-v1"	""	""	"15/12/2020 12:34:06"	"15/12/2020 12:34:06"	""	"66"	"http://172.16.18.40/wordpress/index.php/2020/12/15/66-revision-v1/"	"0"	"revision"	""	"0"
+"78"	"1"	"15/12/2020 12:36:36"	"15/12/2020 12:36:36"	"{
+    ""blogname"": {
+        ""value"": ""Portal Tiendas"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 12:36:36""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"9cc16d92-bd30-43ed-8798-2f0f4ccad487"	""	""	"15/12/2020 12:36:36"	"15/12/2020 12:36:36"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/15/9cc16d92-bd30-43ed-8798-2f0f4ccad487/"	"0"	"customize_changeset"	""	"0"
+"80"	"1"	"15/12/2020 12:48:45"	"0/0/0000 00:00:00"	" "	""	""	"draft"	"closed"	"closed"	""	""	""	""	"15/12/2020 12:48:45"	"0/0/0000 00:00:00"	""	"0"	"http://172.16.18.40/wordpress/?p=80"	"1"	"nav_menu_item"	""	"0"
+"82"	"1"	"15/12/2020 12:51:12"	"15/12/2020 12:51:12"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para gestionar los datos pulse  <a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->"	""	""	"inherit"	"closed"	"closed"	""	"66-revision-v1"	""	""	"15/12/2020 12:51:12"	"15/12/2020 12:51:12"	""	"66"	"http://172.16.18.40/wordpress/index.php/2020/12/15/66-revision-v1/"	"0"	"revision"	""	"0"
+"83"	"1"	"15/12/2020 12:53:05"	"15/12/2020 12:53:05"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la pagina de gestion pulsa <strong><a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></strong>.</p>
+<!-- /wp:paragraph -->"	"Bienvenido a Portal Luxenter"	""	"trash"	"closed"	"closed"	""	"83__trashed"	""	""	"15/12/2020 13:01:35"	"15/12/2020 13:01:35"	""	"0"	"http://172.16.18.40/wordpress/?p=83"	"0"	"post"	""	"0"
+"84"	"1"	"15/12/2020 12:53:05"	"15/12/2020 12:53:05"	"<!-- wp:heading {""textAlign"":""center"",""level"":1} -->
+<h1 class=""has-text-align-center"">Bienvenido a Portal Luxenter</h1>
+<!-- /wp:heading -->"	""	""	"inherit"	"closed"	"closed"	""	"83-revision-v1"	""	""	"15/12/2020 12:53:05"	"15/12/2020 12:53:05"	""	"83"	"http://172.16.18.40/wordpress/index.php/2020/12/15/83-revision-v1/"	"0"	"revision"	""	"0"
+"86"	"1"	"15/12/2020 12:55:30"	"15/12/2020 12:55:30"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la pagina de gestion pulsa <a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25""><strong>aqui</strong></a></p>
+<!-- /wp:paragraph -->"	"Bienvenido a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"83-revision-v1"	""	""	"15/12/2020 12:55:30"	"15/12/2020 12:55:30"	""	"83"	"http://172.16.18.40/wordpress/index.php/2020/12/15/83-revision-v1/"	"0"	"revision"	""	"0"
+"87"	"1"	"15/12/2020 12:55:34"	"15/12/2020 12:55:34"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la pagina de gestion pulsa <strong><a href=""http://172.16.18.40/wordpress/index.php/gestionar/"" data-type=""page"" data-id=""25"">aqui</a></strong>.</p>
+<!-- /wp:paragraph -->"	"Bienvenido a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"83-revision-v1"	""	""	"15/12/2020 12:55:34"	"15/12/2020 12:55:34"	""	"83"	"http://172.16.18.40/wordpress/index.php/2020/12/15/83-revision-v1/"	"0"	"revision"	""	"0"
+"88"	"1"	"15/12/2020 13:00:45"	"15/12/2020 13:00:45"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la página de gestión pulsa <strong><a class=""enlace-gestionar"" href=""http://172.16.18.40/wordpress/index.php/gestionar/"">aquí</a></strong>.</p>
+<!-- /wp:paragraph -->"	"Bienvenidos a Portal Luxenter"	""	"publish"	"closed"	"closed"	""	"bienvenidos-a-portal-luxenter"	""	""	"16/12/2020 09:05:30"	"16/12/2020 09:05:30"	""	"0"	"http://172.16.18.40/wordpress/?page_id=88"	"0"	"page"	""	"0"
+"89"	"1"	"15/12/2020 13:00:45"	"15/12/2020 13:00:45"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la pagina de gestion pulsa <strong><a href=""http://172.16.18.40/wordpress/index.php/gestionar/"">aqui</a></strong>.</p>
+<!-- /wp:paragraph -->"	"Bienvenidos a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"88-revision-v1"	""	""	"15/12/2020 13:00:45"	"15/12/2020 13:00:45"	""	"88"	"http://172.16.18.40/wordpress/index.php/2020/12/15/88-revision-v1/"	"0"	"revision"	""	"0"
+"91"	"1"	"15/12/2020 13:02:51"	"15/12/2020 13:02:51"	"{
+    ""show_on_front"": {
+        ""value"": ""page"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 13:02:49""
+    },
+    ""page_on_front"": {
+        ""value"": ""88"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 13:02:49""
+    },
+    ""page_for_posts"": {
+        ""value"": ""2"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 13:02:49""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"7f0cbb04-2b3e-41df-b983-4e0cd7fb4b82"	""	""	"15/12/2020 13:02:51"	"15/12/2020 13:02:51"	""	"0"	"http://172.16.18.40/wordpress/?p=91"	"0"	"customize_changeset"	""	"0"
+"92"	"1"	"15/12/2020 13:11:24"	"15/12/2020 13:11:24"	"{
+    ""widget_text[4]"": {
+        ""value"": {
+            ""encoded_serialized_instance"": ""YTo0OntzOjU6InRpdGxlIjtzOjIwOiJBY2VyY2EgZGUgZXN0ZSBzaXRpbyI7czo0OiJ0ZXh0IjtzOjE0OToiRW4gZXN0YSBwYWdpbmEgcG9kcsOhcyBnZXN0aW9uYXIgdHUgdGllbmRhLCBwYXJhIGVsbG8gcGluY2hhIGVuIGxhIG9wY2nDs24gPHN0cm9uZz48ZW0+R2VzdGlvbmFywqA8L2VtPjwvc3Ryb25nPnNpdHVhZGEgZW4gbGEgcGFydGUgc3VwZXJpb3IgZGVyZWNoYS4iO3M6NjoiZmlsdGVyIjtiOjE7czo2OiJ2aXN1YWwiO2I6MTt9"",
+            ""title"": ""Acerca de este sitio"",
+            ""is_widget_customizer_js_value"": true,
+            ""instance_hash_key"": ""faa3459c1af0cf6bfdd85974d93516fc""
+        },
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-15 13:06:01""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"a60ffa1a-6183-4951-8fc8-361900a5afde"	""	""	"15/12/2020 13:11:24"	"15/12/2020 13:11:24"	""	"0"	"http://172.16.18.40/wordpress/?p=92"	"0"	"customize_changeset"	""	"0"
+"93"	"1"	"15/12/2020 13:15:48"	"15/12/2020 13:15:48"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la pagina de gestion pulsa <strong><a class=""text-white"" href=""http://172.16.18.40/wordpress/index.php/gestionar/"">aqui</a></strong>.</p>
+<!-- /wp:paragraph -->"	"Bienvenidos a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"88-revision-v1"	""	""	"15/12/2020 13:15:48"	"15/12/2020 13:15:48"	""	"88"	"http://172.16.18.40/wordpress/index.php/2020/12/15/88-revision-v1/"	"0"	"revision"	""	"0"
+"94"	"1"	"15/12/2020 13:17:09"	"15/12/2020 13:17:09"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la pagina de gestion pulsa <strong><a class=""enlace-gestionar"" href=""http://172.16.18.40/wordpress/index.php/gestionar/"">aqui</a></strong>.</p>
+<!-- /wp:paragraph -->"	"Bienvenidos a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"88-revision-v1"	""	""	"15/12/2020 13:17:09"	"15/12/2020 13:17:09"	""	"88"	"http://172.16.18.40/wordpress/index.php/2020/12/15/88-revision-v1/"	"0"	"revision"	""	"0"
+"95"	"1"	"16/12/2020 09:05:30"	"16/12/2020 09:05:30"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Para acceder a la página de gestión pulsa <strong><a class=""enlace-gestionar"" href=""http://172.16.18.40/wordpress/index.php/gestionar/"">aquí</a></strong>.</p>
+<!-- /wp:paragraph -->"	"Bienvenidos a Portal Luxenter"	""	"inherit"	"closed"	"closed"	""	"88-revision-v1"	""	""	"16/12/2020 09:05:30"	"16/12/2020 09:05:30"	""	"88"	"http://172.16.18.40/wordpress/index.php/2020/12/16/88-revision-v1/"	"0"	"revision"	""	"0"
+"96"	"1"	"16/12/2020 09:09:18"	"16/12/2020 09:09:18"	"{
+    ""page_on_front"": {
+        ""value"": ""25"",
+        ""type"": ""option"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-16 09:09:18""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"8a012c8d-ee4d-44a7-868f-b1aba18b65b7"	""	""	"16/12/2020 09:09:18"	"16/12/2020 09:09:18"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/16/8a012c8d-ee4d-44a7-868f-b1aba18b65b7/"	"0"	"customize_changeset"	""	"0"
+"97"	"1"	"16/12/2020 09:11:19"	"16/12/2020 09:11:19"	"{
+    ""nav_menu_item[31]"": {
+        ""value"": {
+            ""menu_item_parent"": 0,
+            ""object_id"": 31,
+            ""object"": ""custom"",
+            ""type"": ""custom"",
+            ""type_label"": ""Enlace personalizado"",
+            ""title"": ""Inicio"",
+            ""url"": ""http://172.16.18.40/wordpress/index.php/bienvenidos-a-portal-luxenter/"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""nav_menu_term_id"": 2,
+            ""position"": 1,
+            ""status"": ""publish"",
+            ""original_title"": """",
+            ""_invalid"": false
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-16 09:11:19""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"57cedf91-7041-45e1-9391-3c716da78849"	""	""	"16/12/2020 09:11:19"	"16/12/2020 09:11:19"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/16/57cedf91-7041-45e1-9391-3c716da78849/"	"0"	"customize_changeset"	""	"0"
+"98"	"1"	"16/12/2020 10:16:41"	"16/12/2020 10:16:41"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Seleccione un ranking</p>
+<!-- /wp:paragraph -->"	"Rankings"	""	"publish"	"closed"	"closed"	""	"rankings"	""	""	"16/12/2020 10:16:41"	"16/12/2020 10:16:41"	""	"0"	"http://172.16.18.40/wordpress/?page_id=98"	"0"	"page"	""	"0"
+"99"	"1"	"16/12/2020 10:16:41"	"16/12/2020 10:16:41"	"<!-- wp:paragraph {""align"":""center""} -->
+<p class=""has-text-align-center"">Seleccione un ranking</p>
+<!-- /wp:paragraph -->"	"Rankings"	""	"inherit"	"closed"	"closed"	""	"98-revision-v1"	""	""	"16/12/2020 10:16:41"	"16/12/2020 10:16:41"	""	"98"	"http://172.16.18.40/wordpress/index.php/2020/12/16/98-revision-v1/"	"0"	"revision"	""	"0"
+"100"	"1"	"16/12/2020 10:17:24"	"16/12/2020 10:17:24"	"{
+    ""nav_menu_item[-1452451727]"": {
+        ""value"": {
+            ""object_id"": 98,
+            ""object"": ""page"",
+            ""menu_item_parent"": 0,
+            ""position"": 3,
+            ""type"": ""post_type"",
+            ""title"": ""Rankings"",
+            ""url"": ""http://172.16.18.40/wordpress/index.php/rankings/"",
+            ""target"": """",
+            ""attr_title"": """",
+            ""description"": """",
+            ""classes"": """",
+            ""xfn"": """",
+            ""status"": ""publish"",
+            ""original_title"": ""Rankings"",
+            ""nav_menu_term_id"": 2,
+            ""_invalid"": false,
+            ""type_label"": ""P\u00e1gina""
+        },
+        ""type"": ""nav_menu_item"",
+        ""user_id"": 1,
+        ""date_modified_gmt"": ""2020-12-16 10:17:24""
+    }
+}"	""	""	"trash"	"closed"	"closed"	""	"8df5cb1b-2cb7-4647-bb06-fe8032857baf"	""	""	"16/12/2020 10:17:24"	"16/12/2020 10:17:24"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/16/8df5cb1b-2cb7-4647-bb06-fe8032857baf/"	"0"	"customize_changeset"	""	"0"
+"101"	"1"	"16/12/2020 10:17:24"	"16/12/2020 10:17:24"	" "	""	""	"publish"	"closed"	"closed"	""	"101"	""	""	"16/12/2020 10:17:24"	"16/12/2020 10:17:24"	""	"0"	"http://172.16.18.40/wordpress/index.php/2020/12/16/101/"	"3"	"nav_menu_item"	""	"0"

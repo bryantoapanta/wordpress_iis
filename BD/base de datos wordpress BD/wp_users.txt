@@ -1,0 +1,1 @@
+"1"	"admin"	"$P$Bf9O9LqUY/Ds2ldYf5TDR2VbGg7/5i/"	"admin"	"bryan55alex@gmail.com"	"http://localhost/wordpress"	"15/12/2020 09:51:09"	""	"0"	"admin"
